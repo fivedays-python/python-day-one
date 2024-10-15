@@ -1,0 +1,1 @@
+Write a script that asks for your name and age, then prints a greeting.

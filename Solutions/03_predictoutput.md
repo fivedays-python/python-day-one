@@ -18,6 +18,8 @@ Modulus Operator (%):
 The % operator returns the remainder of the division.
 Calculation: 10 % 3 equals 1 because 3 * 3 = 9, and 10 - 9 = 1.
 
+## Predicted Output:
+
 ```python
 3
 1
